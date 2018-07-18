@@ -1,0 +1,2 @@
+# takehome
+takehome uas pemrograman
